@@ -1,5 +1,9 @@
 # Research: Using computer vision to analyze golfers' postures during swings
 
+## Overview
+- **Research Focus**: Using Mediapipe CV2 to detect postures of golfers during different swing phases. The data will then be analyzed further understand strengths and weaknesses of golfers, hence suggesting improvements.
+
+**Spine angle**:
   <table>
   <tr>
     <td align="center">
