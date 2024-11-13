@@ -26,7 +26,7 @@
   <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6c97ed17-3b23-49bb-8be1-1c3ab8ce4e7e" width="320"/><br/>
+      <img src="https://github.com/user-attachments/assets/6c97ed17-3b23-49bb-8be1-1c3ab8ce4e7e" width="330"/><br/>
       <b>Spine angle in backswing</b>
     </td>
     <td align="center">
@@ -34,7 +34,7 @@
       <b>Spine angle at impact</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/186bcfde-a218-465c-8a49-0949647bc399" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/186bcfde-a218-465c-8a49-0949647bc399" width="290"/><br/>
       <b>Spine angle at follow through</b>
     </td>
   </tr>
