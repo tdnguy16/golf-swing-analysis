@@ -5,6 +5,7 @@
 
 ## Spine angle
 **Behind view**:
+The spine angle remains stable during the swing from the behind view. This is essential for a good ball impact and strike.z
   <table>
   <tr>
     <td align="center">
@@ -23,6 +24,7 @@
 </table>
 
 **Front view**:
+Front the front view, the spine angles tend to change due to the intention of the golf shot. If the angles increases (especially at impact), the shot will gain more height and spins.
   <table>
   <tr>
     <td align="center">
