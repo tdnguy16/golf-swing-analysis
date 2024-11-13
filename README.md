@@ -26,11 +26,11 @@
   <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6c97ed17-3b23-49bb-8be1-1c3ab8ce4e7e" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/6c97ed17-3b23-49bb-8be1-1c3ab8ce4e7e" width="320"/><br/>
       <b>Spine angle in backswing</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/437501c7-cc5b-4e3a-b595-05e04e41f087" width="285"/><br/>
+      <img src="https://github.com/user-attachments/assets/437501c7-cc5b-4e3a-b595-05e04e41f087" width="320"/><br/>
       <b>Spine angle at impact</b>
     </td>
     <td align="center">
